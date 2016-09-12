@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/butler":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/butler","hostpath":"/home/enerone/butler","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/enerone/butler","disabled":false,"__vagrantfile":true}}}
